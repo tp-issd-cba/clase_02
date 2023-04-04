@@ -1,8 +1,0 @@
-Nombre:Agustin
-<br>
-Pais:Argentina
-<br>
-Comentarios<br>
-Comentario 1
-<br>
-<hr>
